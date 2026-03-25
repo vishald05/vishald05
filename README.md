@@ -7,34 +7,28 @@
 
 ---
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="70%">
 
-### 🧑‍💻 About Me
-- 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.75)
-- 🧠 800+ problems solved (yes I touch grass sometimes)
-- 🔥 Top 7% on LeetCode (rating: 1849)
-- 🎮 I build real-time apps & systems that *actually work*
+<td width="65%" valign="top">
+
+<strong>🧑‍💻 About Me</strong><br>
+- 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.75)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+- 🧠 800+ problems solved (yes I touch grass sometimes)<br>
+- 🔥 Top 7% on LeetCode (rating: 1849)<br>
+- 🎮 I build real-time apps & systems that <i>actually work</i><br>
 - 😌 Chill guy… until the code doesn’t run
 
 </td>
 
-<td>
+<td width="65%" align="right" valign="top">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBpaXdxcGNhcm1pbnk0YmVzNmo4YjlscGxtYjhkM3FtdGQyMzBncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="200"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBpaXdxcGNhcm1pbnk0YmVzNmo4YjlscGxtYjhkM3FtdGQyMzBncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="300"/>
 
 </td>
+
 </tr>
 </table>
-
----
-
-### 🐱 Dev Mood (Important)
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
-</p>
 
 ---
 
@@ -64,6 +58,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishald05&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishald05&theme=tokyonight" />
+</p>
+
+---
+
+### 🐱 Dev Mood
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
 </p>
 
 ---
