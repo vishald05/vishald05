@@ -7,12 +7,26 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🧑‍💻 About Me
 - 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.75)
 - 🧠 800+ problems solved (yes I touch grass sometimes)
 - 🔥 Top 7% on LeetCode (rating: 1849)
 - 🎮 I build real-time apps & systems that *actually work*
 - 😌 Chill guy… until the code doesn’t run
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
