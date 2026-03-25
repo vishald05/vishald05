@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
 ### 🧑‍💻 About Me
 - 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.75)
