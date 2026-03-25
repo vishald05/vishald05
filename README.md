@@ -19,7 +19,7 @@
 - 🎮 I build real-time apps & systems that <i>actually work</i><br>
 - 😌 Chill guy… until the code doesn’t run<br>
 - ⚡ Backend dev who enjoys building scalable & real-time systems<br>
-- 🧩 Strong in DSA, debugging, and breaking things just to fix them betterㅤ<br>
+- 🧩 Strong in DSA, debugging, and breaking things just to fix them better<br>
 - ☕ Powered by caffeine, deadlines, and random bursts of motivation<br>
 </td>
 
