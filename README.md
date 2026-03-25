@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Dev | Problem Solver | Professional Bug Creator 🐛</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+stuff+with+code;Node.js+%7C+MongoDB+%7C+Java;Top+7%25+LeetCode+grinder;Funny+chill+guy+%F0%9F%98%82;I+debug+with+console.log();&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+stuff+with+code;Node.js+%7C+MongoDB+%7C+Java;Top+7%25+LeetCode+grinder;Im+Soooo+Cooked+&#128565;&#8205;&#128171;;I+debug+with+console.log();&center=true&width=500&height=45">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🎮 I build real-time apps & systems that <i>actually work</i><br>
 - 😌 Chill guy… until the code doesn’t run<br>
 - ⚡ Backend dev who enjoys building scalable & real-time systems<br>
-- 🧩 Strong in DSA, debugging, and breaking things just to fix them betterㅤㅤ<br>
+- 🧩 Strong in DSA, debugging, and breaking things just to fix them betterㅤ<br>
 - ☕ Powered by caffeine, deadlines, and random bursts of motivation<br>
 </td>
 
@@ -67,7 +67,7 @@
 ### 🐱 Dev Mood
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FuNWVpMWZhdTB1aXp1NjR6YzhweWExdmI0MGI3cjgzNW9vbGtudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ACeIDlMpgc4yOf1Lyt/giphy.gif" width="250"/>
 </p>
 
 ---
