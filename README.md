@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Dev | Problem Solver | Professional Bug Creator 🐛</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+stuff+with+code;Node.js+%7C+MongoDB+%7C+Java;Top+7%25+LeetCode+grinder;Im+Soooo+Cooked+&#128565;&#8205;&#128171;;I+debug+with+console.log();&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+stuff+with+code;Top+7%25+LeetCode+grinder;Im+Soooo+Cooked+&#128565;&#8205;&#128171;;I+debug+with+console.log();&center=true&width=500&height=45">
 </p>
 
 ---
