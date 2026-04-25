@@ -14,7 +14,7 @@
 
 <strong>🧑‍💻 About Me</strong><br>
 - 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.75)ㅤㅤㅤㅤㅤㅤㅤ<br>
-- 🧠 800+ problems solved (yes I touch grass sometimes)<br>
+- 🧠 900+ problems solved (yes I touch grass sometimes)<br>
 - 🔥 Top 7% on LeetCode (rating: 1849)<br>
 - 🎮 I build real-time apps & systems that <i>actually work</i><br>
 - 😌 Chill guy… until the code doesn’t run<br>
