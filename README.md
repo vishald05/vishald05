@@ -118,9 +118,8 @@
 
 ### 🐍 Contribution Snake (because why not)
 
-<p align="center">
-  <img src="https://github.com/vishald05/vishald05/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
+  ![snake gif](https://github.com/vishald05/vishald05/blob/output/github-snake-dark.svg)
 
 ---
 
