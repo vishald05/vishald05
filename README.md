@@ -13,9 +13,9 @@
 <td width="65%" valign="top">
 
 <strong>🧑‍💻 About Me</strong><br>
-- 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.75)ㅤㅤㅤㅤㅤㅤㅤ<br>
-- 🧠 900+ problems solved (yes I touch grass sometimes)<br>
-- 🔥 Top 7% on LeetCode (rating: 1849)<br>
+- 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.67)ㅤㅤㅤㅤㅤㅤㅤ<br>
+- 🧠 1067+ problems solved (yes I touch grass sometimes)<br>
+- 🔥 Top 7% on LeetCode (rating: 1915)<br>
 - 🎮 I build real-time apps & systems that <i>actually work</i><br>
 - 😌 Chill guy… until the code doesn’t run<br>
 - ⚡ Backend dev who enjoys building scalable & real-time systems<br>
@@ -52,6 +52,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+### 🧑‍💻 Coding Stats
+
+<p align="center">
+  <a href="https://leetcode.com/Vishal0528_">
+    <img src="https://leetcard.jacoblin.cool/Vishal0528?theme=dark&font=Arya&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
