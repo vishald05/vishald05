@@ -15,7 +15,7 @@
 <strong>🧑‍💻 About Me</strong><br>
 - 🎓 CSE @ Chennai Institute of Technology (CGPA: 8.67)ㅤㅤㅤㅤㅤㅤㅤ<br>
 - 🧠 1067+ problems solved (yes I touch grass sometimes)<br>
-- 🔥 Top 7% on LeetCode (rating: 1915)<br>
+- 🔥 Top 3% on LeetCode (rating: 1950)<br>
 - 🎮 I build real-time apps & systems that <i>actually work</i><br>
 - 😌 Chill guy… until the code doesn’t run<br>
 - ⚡ Backend dev who enjoys building scalable & real-time systems<br>
